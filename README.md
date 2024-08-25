@@ -36,10 +36,10 @@ public interface UniqueSet<T> {
 
 ### Решение
 
-<a href="./src/main/java/me/func/section/UniqueSet.java">Интерфейс уникального множества</a></br>
-<a href="./src/main/java/me/func/section/UnsafeUniqueSet.java">Реализация Thread-Unsafe структуры данных UniqueSet</a></br>
-<a href="./src/main/java/me/func/section/ConcurrentUniqueSet.java">Реализация Thread-Safe структуры данных UniqueSet</a></br>
-<a href="./src/test/java/me/func/section/UniqueSetTest.java">Unit-тесты различных сценариев использования</a></br>
+<a href="./preliminary/src/main/java/me/func/section/UniqueSet.java">Интерфейс уникального множества</a></br>
+<a href="./preliminary/src/main/java/me/func/section/UnsafeUniqueSet.java">Реализация Thread-Unsafe структуры данных UniqueSet</a></br>
+<a href="./preliminary/src/main/java/me/func/section/ConcurrentUniqueSet.java">Реализация Thread-Safe структуры данных UniqueSet</a></br>
+<a href="./preliminary/src/test/java/me/func/section/UniqueSetTest.java">Unit-тесты различных сценариев использования</a></br>
 
 ### Результат
 
