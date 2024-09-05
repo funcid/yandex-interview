@@ -106,7 +106,7 @@ public interface Sdk {
 
 ### Решение
 
-<a href="./algorithm/src/main/java/me/func/section/main.kt">Валидация билетов и построение маршрута</a></br>
+<a href="./algorithm/src/main/kotlin/me/func/section/main.kt">Валидация билетов и построение маршрута</a></br>
 
 ### Результат
 
