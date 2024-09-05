@@ -1,3 +1,5 @@
+package me.func.section
+
 fun main() {
     val connections = listOf(
         "A" to "B",
